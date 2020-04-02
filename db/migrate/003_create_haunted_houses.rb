@@ -5,7 +5,6 @@ class CreateHauntedHouses < ActiveRecord::Migration[4.2]
       r.string :name
     end
   end
-  
-  
+
 end
 # Create your haunted_houses migration here
